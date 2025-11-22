@@ -1,0 +1,9 @@
+{
+  "name": "Copy of DhakaCleanAI",
+  "description": "AI-powered waste sorting and urban management system for Dhaka City, featuring real-time image classification, disposal advice, and city-wide analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
